@@ -1,0 +1,6 @@
+{
+  "address": "127.0.0.1:8090",
+  "endpoint": "/us",
+  "db": "CSV",
+  "uri": "D:/Programs/Go/RECStatGo/bin/db.csv"
+}
